@@ -11,3 +11,15 @@ h1{
 body{
   font-family: sans-serif;
 }
+p.greentea {
+  color: green;
+}
+p.raspberry {
+  color: blue;
+}
+p.buleberry {
+  color: purple;
+}
+p.greentea{
+  letter-spacing: 60cm;
+}
